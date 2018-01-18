@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirebaseCRUD.iml" filepath="$PROJECT_DIR$/FirebaseCRUD.iml" />
+      <module fileurl="file://G:\Dhaval_Mehta\BitBucket\Firebase-CRUD\FirebaseCRUD\firebaseCRUD\app.iml" filepath="G:\Dhaval_Mehta\BitBucket\Firebase-CRUD\FirebaseCRUD\firebaseCRUD\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firebaseCRUD/firebaseCRUD.iml" filepath="$PROJECT_DIR$/firebaseCRUD/firebaseCRUD.iml" />
+    </modules>
+  </component>
+</project>
