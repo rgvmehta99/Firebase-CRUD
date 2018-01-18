@@ -1,5 +1,5 @@
 # Firebase-CRUD
-Simple database CRUD operation using Firebase
+Simple database CRUD operation using Firebase (OFfline & Online)
 
 *-------------------*
 
