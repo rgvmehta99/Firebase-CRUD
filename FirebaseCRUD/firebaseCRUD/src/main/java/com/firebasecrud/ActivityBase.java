@@ -170,7 +170,6 @@ public class ActivityBase extends FragmentActivity {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
     } // url = https://github.com/rgvmehta99/Firebase-CRUD.git
 
 
