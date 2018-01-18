@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Firebase CRUD</string>
+    <string name="about"><b>Info</b>\n
+        ----------------------------\n\n
+    This app is for insert record to Firebase. With easy way to create/add new records and with <b>Swipable Edit &amp; Delete</b>\n
+    You can edit &amp; delete record with just one Swipe\n\n
+    This demo contains..\n
+    ---------\n
+    \u2022 Data listing (Firebase)\n
+    \u2022 Create (Firebase)\n
+    \u2022 Edit (Firebase)\n
+    \u2022 Delete (Firebase)\n
+    ---------\n\n
+    \u2022 Ripple Effect\n
+    \u2022 Swipe Functionality (for Edit &amp; Delete)\n
+    \u2022 Simple animation\n\n\n\n
+    Happy coding&#8230;&#8230;&#8230;</string>
+</resources>

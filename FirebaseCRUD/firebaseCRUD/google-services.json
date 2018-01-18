@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "482314099705",
+    "firebase_url": "https://elitecommon-34e44.firebaseio.com",
+    "project_id": "elitecommon-34e44",
+    "storage_bucket": "elitecommon-34e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482314099705:android:bb46197a152771a2",
+        "android_client_info": {
+          "package_name": "com.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482314099705-77bvn3h9e5e0if3a601j4h2h38gd1j31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCalyL6zBmq64hjZi2B3QIK9wt5GwUium4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
